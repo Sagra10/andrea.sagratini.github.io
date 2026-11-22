@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://andrea.sagratini.github.io/sitemap.xml
